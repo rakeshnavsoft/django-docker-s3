@@ -2,7 +2,7 @@
 
 ## Want to learn how to build this?
 
-Check out the [post]().
+Check out the [post](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3/).
 
 ## Want to use this project?
 
